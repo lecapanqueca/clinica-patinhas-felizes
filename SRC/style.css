@@ -17,9 +17,11 @@ h1, h2, h3 {
 
 
 .wrapper {
-    width: 1200px;
+    width: 100%;
+    max-width: 1200px;
     display: flex;
     margin: 0 auto;
+    padding: 0 16px;
     background-color: white;
 }
 
